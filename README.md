@@ -8,19 +8,19 @@ This project focuses on analysing a dataset from the National Institute of Diabe
 - **Format:** CSV
 - **Variables:**
   - **Independent Variables (Medical Predictor Variables):**
-    - [List of independent variables]
+    - Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes, and Age are all independent variables.
   - **Dependent Variable (Target):**
-    - Outcome (Binary: 0 or 1)
+    - Outcome (Binary: 0 or 1) is the only dependent variable in this analysis.
 
 ## Tasks Performed
 
 ### Exploratory Data Analysis
-- **Data Overview:** The dataset contains [number of rows] rows and [number of columns] columns.
+- **Data Overview:** The dataset contains 768 rows and 9 columns.
 - **Variable Analysis:** Exploring the distribution and characteristics of the independent and dependent variables.
 
 ### Data Cleaning
-- **Handling Missing Values:** Addressing any missing values in the dataset.
-- **Data Transformation:** Performing necessary transformations on the data.
+- **Handling Missing Values:** Addressing any missing values in the dataset. There were no missing values in the dataset.
+- **Data Transformation:** EDA was performed to get an overview of the data.
 
 ### Data Visualisation
 - **Correlation Analysis:** Visualising relationships between variables, especially those related to diabetes diagnosis.
@@ -39,13 +39,5 @@ Summarise key findings and insights obtained from the analysis.
 ## Future Work
 Outline potential future steps or enhancements for the project.
 
-## Contributors
-- [Your Name]
-- [Collaborator 1]
-- [Collaborator 2]
-
-## Licence
-This project is licensed under the [Licence Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgements
-- Mention any acknowledgements or credits for data sources, libraries, or tools used in the project.
+- MeriSKILL Virtual Internship 2023
